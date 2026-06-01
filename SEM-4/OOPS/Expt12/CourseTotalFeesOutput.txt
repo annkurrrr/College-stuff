@@ -1,7 +1,0 @@
-=== Course Enrollment Details ===
-CourseID,CourseName,Fee
-123,OOPS using Java,700.00
-Automata Theory,223,1000.00
-
-=== Total Fees Summary ===
-Total Fees of All Courses: 1700.00

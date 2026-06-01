@@ -1,0 +1,3 @@
+Course Enrollment System - Total Fees Calculation
+Total number of courses: 3
+Total Fees of all courses: 1550.50

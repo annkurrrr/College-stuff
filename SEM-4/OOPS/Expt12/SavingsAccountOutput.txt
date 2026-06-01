@@ -1,4 +1,0 @@
-=== Updated Savings Account Details ===
-AccountNumber,Name,UpdatedBalance
-1234,Ankur Kunde,55000.00
-Ben Dover,70000,77000.00
